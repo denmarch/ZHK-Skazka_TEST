@@ -64,7 +64,7 @@ $(document).ready(function() {
 			0: { items: 1, nav: true },
 			501: { items: 2, nav: true },
 			768: { items: 3, nav: true },
-			1171: { items: 3, nav: true }
+			1171: { items: 4, nav: true }
 		}
 	});
 
