@@ -41,7 +41,7 @@ $(document).ready(function() {
 			561: { items: 2, nav: true },
 			769: { items: 2, nav: true },
 			992: { items: 3, nav: true },
-			1130: { items: 4, nav: true }
+			1130: { items: 3, nav: true }
 		}
 	});
 
@@ -64,7 +64,7 @@ $(document).ready(function() {
 			0: { items: 1, nav: true },
 			501: { items: 2, nav: true },
 			768: { items: 3, nav: true },
-			1171: { items: 4, nav: true }
+			1171: { items: 3, nav: true }
 		}
 	});
 
@@ -183,7 +183,7 @@ $(document).ready(function(){
 				iconContent: '&laquo;Сказка&raquo;',
 				//hintContent: '<b>Офис продаж</b><br>',
 				balloonContentHeader: '&laquo;Сказка&raquo;',
-				
+
 			}
 		}, {
 			//Задаем пресет метки с точкой с содержимым.
